@@ -10,11 +10,10 @@ NetViper is a terminal-based cybersecurity toolkit written in Python. It helps e
 - 🕸️ Web Application Attacks
 - 🧅 MITM, Sniffing & Spoofing Tools
 
----
 
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/NetViper.git
+git clone https://github.com/ACW360/NetViper.git
 cd NetViper
 python3 netviper.py
