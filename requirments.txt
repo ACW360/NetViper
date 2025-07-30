@@ -1,0 +1,8 @@
+colorama
+scapy
+wifi-honey
+shodan
+httpx
+arjun
+xsstrike
+urlscan
