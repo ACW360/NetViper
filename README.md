@@ -49,7 +49,6 @@ NetViper comes with the following categories and tools:
 - WhatWeb, Dirb, Gobuster, Hydra, Sqlmap, Arjun
 
 ## 📷 Demo
-![NetViper Main Menu](netviper_main_menu.png)
 
 ## 🔧 Installation
 
